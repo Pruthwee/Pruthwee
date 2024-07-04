@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pruthweeraj
 - 👀 I’m interested in ... Java
-- 🌱 I’m currently learning ... Kafka
+- 🌱 I’m currently learning ... LLM
 - 💞️ I’m looking to collaborate on ... Ai with Java Integration 
 - 📫 How to reach me ... pruthweeraj.panda@gmail.com
 
